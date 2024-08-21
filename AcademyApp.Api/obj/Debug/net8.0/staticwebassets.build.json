@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "Hash": "mF9DtQww4PFX/xa2BKnyiOEhxjFxYljBMQDJlKa4Vgc=",
+  "Source": "AcademyApp.Api",
+  "BasePath": "_content/AcademyApp.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "AcademyApp.Api\\wwwroot",
+      "Source": "AcademyApp.Api",
+      "ContentRoot": "C:\\Users\\seidb\\OneDrive\\Masaüstü\\AcademyApp\\AcademyApp.Api\\wwwroot\\",
+      "BasePath": "_content/AcademyApp.Api",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\seidb\\OneDrive\\Masaüstü\\AcademyApp\\AcademyApp.Api\\wwwroot\\uploads\\images\\0bbbcc1b-e589-49d1-83bf-f7e4505a0af8apple-watch.jpg",
+      "SourceId": "AcademyApp.Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\seidb\\OneDrive\\Masaüstü\\AcademyApp\\AcademyApp.Api\\wwwroot\\",
+      "BasePath": "_content/AcademyApp.Api",
+      "RelativePath": "uploads/images/0bbbcc1b-e589-49d1-83bf-f7e4505a0af8apple-watch.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\images\\0bbbcc1b-e589-49d1-83bf-f7e4505a0af8apple-watch.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\seidb\\OneDrive\\Masaüstü\\AcademyApp\\AcademyApp.Api\\wwwroot\\uploads\\images\\c85f85d3-9b7a-45ad-a95e-8ed97749df5fblog1.jpg",
+      "SourceId": "AcademyApp.Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\seidb\\OneDrive\\Masaüstü\\AcademyApp\\AcademyApp.Api\\wwwroot\\",
+      "BasePath": "_content/AcademyApp.Api",
+      "RelativePath": "uploads/images/c85f85d3-9b7a-45ad-a95e-8ed97749df5fblog1.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\images\\c85f85d3-9b7a-45ad-a95e-8ed97749df5fblog1.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\seidb\\OneDrive\\Masaüstü\\AcademyApp\\AcademyApp.Api\\wwwroot\\uploads\\images\\db659ebd-78ab-4944-82b2-5522e8f8aea6apple-watch.jpg",
+      "SourceId": "AcademyApp.Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\seidb\\OneDrive\\Masaüstü\\AcademyApp\\AcademyApp.Api\\wwwroot\\",
+      "BasePath": "_content/AcademyApp.Api",
+      "RelativePath": "uploads/images/db659ebd-78ab-4944-82b2-5522e8f8aea6apple-watch.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\images\\db659ebd-78ab-4944-82b2-5522e8f8aea6apple-watch.jpg"
+    }
+  ]
+}

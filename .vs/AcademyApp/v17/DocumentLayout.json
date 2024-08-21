@@ -1,0 +1,147 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\seidb\\OneDrive\\Masa\u00FCst\u00FC\\AcademyApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F5736B5B-D03B-4507-9945-B9208A596838}|AcademyApp.Api\\AcademyApp.Api.csproj|c:\\users\\seidb\\onedrive\\masa\u00FCst\u00FC\\academyapp\\academyapp.api\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5736B5B-D03B-4507-9945-B9208A596838}|AcademyApp.Api\\AcademyApp.Api.csproj|solutionrelative:academyapp.api\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5736B5B-D03B-4507-9945-B9208A596838}|AcademyApp.Api\\AcademyApp.Api.csproj|c:\\users\\seidb\\onedrive\\masa\u00FCst\u00FC\\academyapp\\academyapp.api\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5736B5B-D03B-4507-9945-B9208A596838}|AcademyApp.Api\\AcademyApp.Api.csproj|solutionrelative:academyapp.api\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5736B5B-D03B-4507-9945-B9208A596838}|AcademyApp.Api\\AcademyApp.Api.csproj|c:\\users\\seidb\\onedrive\\masa\u00FCst\u00FC\\academyapp\\academyapp.api\\controllers\\groupcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5736B5B-D03B-4507-9945-B9208A596838}|AcademyApp.Api\\AcademyApp.Api.csproj|solutionrelative:academyapp.api\\controllers\\groupcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69B0BE9B-BF30-45E1-A32B-1F62EAE7A5ED}|AcademyApp.Application\\AcademyApp.Application.csproj|c:\\users\\seidb\\onedrive\\masa\u00FCst\u00FC\\academyapp\\academyapp.application\\implementations\\groupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69B0BE9B-BF30-45E1-A32B-1F62EAE7A5ED}|AcademyApp.Application\\AcademyApp.Application.csproj|solutionrelative:academyapp.application\\implementations\\groupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69B0BE9B-BF30-45E1-A32B-1F62EAE7A5ED}|AcademyApp.Application\\AcademyApp.Application.csproj|c:\\users\\seidb\\onedrive\\masa\u00FCst\u00FC\\academyapp\\academyapp.application\\implementations\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69B0BE9B-BF30-45E1-A32B-1F62EAE7A5ED}|AcademyApp.Application\\AcademyApp.Application.csproj|solutionrelative:academyapp.application\\implementations\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5736B5B-D03B-4507-9945-B9208A596838}|AcademyApp.Api\\AcademyApp.Api.csproj|c:\\users\\seidb\\onedrive\\masa\u00FCst\u00FC\\academyapp\\academyapp.api\\middlewares\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5736B5B-D03B-4507-9945-B9208A596838}|AcademyApp.Api\\AcademyApp.Api.csproj|solutionrelative:academyapp.api\\middlewares\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69B0BE9B-BF30-45E1-A32B-1F62EAE7A5ED}|AcademyApp.Application\\AcademyApp.Application.csproj|c:\\users\\seidb\\onedrive\\masa\u00FCst\u00FC\\academyapp\\academyapp.application\\exceptions\\customexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69B0BE9B-BF30-45E1-A32B-1F62EAE7A5ED}|AcademyApp.Application\\AcademyApp.Application.csproj|solutionrelative:academyapp.application\\exceptions\\customexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ServiceRegistration.cs",
+              "DocumentMoniker": "C:\\Users\\seidb\\OneDrive\\Masa\u00FCst\u00FC\\AcademyApp\\AcademyApp.Api\\ServiceRegistration.cs",
+              "RelativeDocumentMoniker": "AcademyApp.Api\\ServiceRegistration.cs",
+              "ToolTip": "C:\\Users\\seidb\\OneDrive\\Masa\u00FCst\u00FC\\AcademyApp\\AcademyApp.Api\\ServiceRegistration.cs",
+              "RelativeToolTip": "AcademyApp.Api\\ServiceRegistration.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAowBcAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T11:07:41.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GroupController.cs",
+              "DocumentMoniker": "C:\\Users\\seidb\\OneDrive\\Masa\u00FCst\u00FC\\AcademyApp\\AcademyApp.Api\\Controllers\\GroupController.cs",
+              "RelativeDocumentMoniker": "AcademyApp.Api\\Controllers\\GroupController.cs",
+              "ToolTip": "C:\\Users\\seidb\\OneDrive\\Masa\u00FCst\u00FC\\AcademyApp\\AcademyApp.Api\\Controllers\\GroupController.cs",
+              "RelativeToolTip": "AcademyApp.Api\\Controllers\\GroupController.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAApwBkAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T10:58:40.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GroupService.cs",
+              "DocumentMoniker": "C:\\Users\\seidb\\OneDrive\\Masa\u00FCst\u00FC\\AcademyApp\\AcademyApp.Application\\Implementations\\GroupService.cs",
+              "RelativeDocumentMoniker": "AcademyApp.Application\\Implementations\\GroupService.cs",
+              "ToolTip": "C:\\Users\\seidb\\OneDrive\\Masa\u00FCst\u00FC\\AcademyApp\\AcademyApp.Application\\Implementations\\GroupService.cs",
+              "RelativeToolTip": "AcademyApp.Application\\Implementations\\GroupService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T10:58:02.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "C:\\Users\\seidb\\OneDrive\\Masa\u00FCst\u00FC\\AcademyApp\\AcademyApp.Application\\Implementations\\StudentService.cs",
+              "RelativeDocumentMoniker": "AcademyApp.Application\\Implementations\\StudentService.cs",
+              "ToolTip": "C:\\Users\\seidb\\OneDrive\\Masa\u00FCst\u00FC\\AcademyApp\\AcademyApp.Application\\Implementations\\StudentService.cs",
+              "RelativeToolTip": "AcademyApp.Application\\Implementations\\StudentService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T10:53:33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ExceptionMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\seidb\\OneDrive\\Masa\u00FCst\u00FC\\AcademyApp\\AcademyApp.Api\\Middlewares\\ExceptionMiddleware.cs",
+              "RelativeDocumentMoniker": "AcademyApp.Api\\Middlewares\\ExceptionMiddleware.cs",
+              "ToolTip": "C:\\Users\\seidb\\OneDrive\\Masa\u00FCst\u00FC\\AcademyApp\\AcademyApp.Api\\Middlewares\\ExceptionMiddleware.cs",
+              "RelativeToolTip": "AcademyApp.Api\\Middlewares\\ExceptionMiddleware.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T08:29:34.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\seidb\\OneDrive\\Masa\u00FCst\u00FC\\AcademyApp\\AcademyApp.Api\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "AcademyApp.Api\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\seidb\\OneDrive\\Masa\u00FCst\u00FC\\AcademyApp\\AcademyApp.Api\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "AcademyApp.Api\\Controllers\\StudentController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T07:25:35.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CustomException.cs",
+              "DocumentMoniker": "C:\\Users\\seidb\\OneDrive\\Masa\u00FCst\u00FC\\AcademyApp\\AcademyApp.Application\\Exceptions\\CustomException.cs",
+              "RelativeDocumentMoniker": "AcademyApp.Application\\Exceptions\\CustomException.cs",
+              "ToolTip": "C:\\Users\\seidb\\OneDrive\\Masa\u00FCst\u00FC\\AcademyApp\\AcademyApp.Application\\Exceptions\\CustomException.cs",
+              "RelativeToolTip": "AcademyApp.Application\\Exceptions\\CustomException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T07:42:36.428Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\seidb\\OneDrive\\Masaüstü\\AcademyApp\\AcademyApp.Api\\wwwroot\\uploads\\images\\0bbbcc1b-e589-49d1-83bf-f7e4505a0af8apple-watch.jpg",
+      "PackagePath": "staticwebassets\\uploads\\images\\0bbbcc1b-e589-49d1-83bf-f7e4505a0af8apple-watch.jpg"
+    },
+    {
+      "Id": "C:\\Users\\seidb\\OneDrive\\Masaüstü\\AcademyApp\\AcademyApp.Api\\wwwroot\\uploads\\images\\c85f85d3-9b7a-45ad-a95e-8ed97749df5fblog1.jpg",
+      "PackagePath": "staticwebassets\\uploads\\images\\c85f85d3-9b7a-45ad-a95e-8ed97749df5fblog1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\seidb\\OneDrive\\Masaüstü\\AcademyApp\\AcademyApp.Api\\wwwroot\\uploads\\images\\db659ebd-78ab-4944-82b2-5522e8f8aea6apple-watch.jpg",
+      "PackagePath": "staticwebassets\\uploads\\images\\db659ebd-78ab-4944-82b2-5522e8f8aea6apple-watch.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.AcademyApp.Api.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.AcademyApp.Api.props",
+      "PackagePath": "build\\AcademyApp.Api.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.AcademyApp.Api.props",
+      "PackagePath": "buildMultiTargeting\\AcademyApp.Api.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.AcademyApp.Api.props",
+      "PackagePath": "buildTransitive\\AcademyApp.Api.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
