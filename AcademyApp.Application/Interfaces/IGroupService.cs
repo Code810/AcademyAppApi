@@ -5,7 +5,8 @@ namespace AcademyApp.Application.Interfaces
 {
     public interface IGroupService
     {
-        public int Create(GroupCreateDto groupCreateDto);
-        List<Group> GetAll();
+        Task<int> Create(GroupCreateDto groupCreateDto);
+        Task<List<Group>> GetAll();
+        Task<Group> Get(string name);
     }
 }

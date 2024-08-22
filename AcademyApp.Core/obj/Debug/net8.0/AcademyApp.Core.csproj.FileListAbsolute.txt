@@ -20,3 +20,4 @@ C:\Users\seidb\OneDrive\Masaüstü\AcademyApp\AcademyApp.Core\obj\Debug\net8.0\A
 C:\Users\seidb\OneDrive\Masaüstü\AcademyApp\AcademyApp.Core\obj\Debug\net8.0\refint\AcademyApp.Core.dll
 C:\Users\seidb\OneDrive\Masaüstü\AcademyApp\AcademyApp.Core\obj\Debug\net8.0\AcademyApp.Core.pdb
 C:\Users\seidb\OneDrive\Masaüstü\AcademyApp\AcademyApp.Core\obj\Debug\net8.0\ref\AcademyApp.Core.dll
+C:\Users\seidb\OneDrive\Masaüstü\AcademyApp\AcademyApp.Core\obj\Debug\net8.0\AcademyApp.Core.sourcelink.json

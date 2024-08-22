@@ -2,33 +2,38 @@
 using AcademyApp.Application.Exceptions;
 using AcademyApp.Application.Interfaces;
 using AcademyApp.Core.Entities;
-using AcademyApp.Data.Data;
+using AcademyApp.Data.Implementations;
 using AutoMapper;
 
 namespace AcademyApp.Application.Implementations
 {
     public class GroupService : IGroupService
     {
-        private readonly AcademyContext _context;
+        private readonly IUnitOfWork _unitOfWork;
         private readonly IMapper _mapper;
-        public GroupService(AcademyContext context, IMapper mapper)
+        public GroupService(IMapper mapper, IUnitOfWork unitOfWork)
         {
-            _context = context;
             _mapper = mapper;
+            _unitOfWork = unitOfWork;
         }
-        public int Create(GroupCreateDto groupCreateDto)
+        public async Task<int> Create(GroupCreateDto groupCreateDto)
         {
-            if (_context.groups.Any(g => g.Name == groupCreateDto.Name))
+            if (await _unitOfWork.groupRepository.IsExist(g => g.Name == groupCreateDto.Name))
                 throw new CustomException(400, "Name", "Dublicate entity");
             var group = _mapper.Map<Group>(groupCreateDto);
-            _context.groups.Add(group);
-            _context.SaveChanges();
+            await _unitOfWork.groupRepository.Create(group);
+            await _unitOfWork.Commit();
             return group.Id;
         }
 
-        public List<Group> GetAll()
+        public async Task<Group> Get(string name)
         {
-            return _context.groups.ToList();
+            return await _unitOfWork.groupRepository.GetEntity(g => g.Name == name);
+        }
+
+        public async Task<List<Group>> GetAll()
+        {
+            return await _unitOfWork.groupRepository.GetAll();
         }
     }
 }

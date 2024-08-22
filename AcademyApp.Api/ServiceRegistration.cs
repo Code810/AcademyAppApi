@@ -2,7 +2,9 @@
 using AcademyApp.Application.Implementations;
 using AcademyApp.Application.Interfaces;
 using AcademyApp.Application.Profiles;
+using AcademyApp.Core.Repositories;
 using AcademyApp.Data.Data;
+using AcademyApp.Data.Implementations;
 using FluentValidation;
 using FluentValidation.AspNetCore;
 using MicroElements.Swashbuckle.FluentValidation.AspNetCore;
@@ -41,6 +43,8 @@ namespace AcademyApp.Api
             services.AddFluentValidationRulesToSwagger();
             services.AddScoped<IGroupService, GroupService>();
             services.AddScoped<IStudentService, StudentService>();
+            services.AddScoped<IGroupRepository, GroupRepository>();
+            services.AddScoped<IUnitOfWork, UnitOfWork>();
             services.AddHttpContextAccessor();
             services.AddAutoMapper(opt => opt.AddProfile(new MapperProfile(new HttpContextAccessor())));
         }

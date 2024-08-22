@@ -19,5 +19,10 @@ namespace AcademyApp.Api.Controllers
         {
             return Ok(_studentService.Create(studentCreateDto));
         }
+        [HttpGet]
+        public IActionResult Get()
+        {
+            return Ok(_studentService.GetAll());
+        }
     }
 }

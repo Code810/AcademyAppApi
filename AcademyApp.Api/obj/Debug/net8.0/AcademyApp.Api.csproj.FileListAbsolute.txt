@@ -289,3 +289,4 @@ C:\Users\seidb\OneDrive\Masaüstü\AcademyApp\AcademyApp.Api\bin\Debug\net8.0\Mi
 C:\Users\seidb\OneDrive\Masaüstü\AcademyApp\AcademyApp.Api\bin\Debug\net8.0\MicroElements.Swashbuckle.FluentValidation.dll
 C:\Users\seidb\OneDrive\Masaüstü\AcademyApp\AcademyApp.Api\bin\Debug\net8.0\AutoMapper.dll
 C:\Users\seidb\OneDrive\Masaüstü\AcademyApp\AcademyApp.Api\bin\Debug\net8.0\AcademyApp.Api.staticwebassets.runtime.json
+C:\Users\seidb\OneDrive\Masaüstü\AcademyApp\AcademyApp.Api\obj\Debug\net8.0\AcademyApp.Api.sourcelink.json

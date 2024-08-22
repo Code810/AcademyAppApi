@@ -25,6 +25,7 @@ namespace AcademyApp.Application.Profiles
             //Student
             CreateMap<StudentCreateDto, Student>()
                 .ForMember(s => s.FileName, map => map.MapFrom(d => d.File.Save(Directory.GetCurrentDirectory(), "uploads/images")));
+            CreateMap<Student, StudentReturnDto>().ForMember(d => d.FileName, map => map.MapFrom(s => url + "uploads/images/" + s.FileName));
         }
     }
 }

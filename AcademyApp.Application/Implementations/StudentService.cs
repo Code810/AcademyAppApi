@@ -38,5 +38,10 @@ namespace AcademyApp.Application.Implementations
             _context.SaveChanges();
             return student.Id;
         }
+
+        public List<StudentReturnDto> GetAll()
+        {
+            return _mapper.Map<List<StudentReturnDto>>(_context.students.Include(s => s.Group).ToList());
+        }
     }
 }

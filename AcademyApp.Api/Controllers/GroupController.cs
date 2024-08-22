@@ -15,15 +15,21 @@ namespace AcademyApp.Api.Controllers
             _groupService = groupService;
         }
         [HttpGet]
-        public IActionResult Get()
+        public async Task<IActionResult> Get()
         {
-            return Ok(_groupService.GetAll());
+            return Ok(await _groupService.GetAll());
         }
         [HttpPost]
-        public IActionResult Create(GroupCreateDto groupCreateDto)
+        public async Task<IActionResult> Create(GroupCreateDto groupCreateDto)
         {
 
-            return Ok(_groupService.Create(groupCreateDto));
+            return Ok(await _groupService.Create(groupCreateDto));
+        }
+        [HttpGet("{name}")]
+        public async Task<IActionResult> Get(string name)
+        {
+
+            return Ok(await _groupService.Get(name));
         }
 
     }
